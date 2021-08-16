@@ -13,6 +13,8 @@ ViteBridge White Paper [ENG] - https://docs.vite.org/go-vite/bridge/ViteBridge.h
 
 Full Documentation - https://docs.vite.org/
 
+Vite Store - https://global.vite.store/
+
 **Community Organizations**
 
 SwissVite:  https://www.swissvite.org/
@@ -68,7 +70,7 @@ Official Desktop Wallet (Mac/Windows) -  https://github.com/vitelabs/vite-wallet
 Official Ledger Integration -  https://docs.vite.org/go-vite/tutorial/ledger-install.html
 
 
-**Tutorials (there are a lot more out there)**
+**Tutorials**
 
 User Guides and Tutorials - https://forum.vite.net/category/95/user-guides-tutorials
  
@@ -95,6 +97,18 @@ Vitej (java library for Vite) - https://docs.vite.org/vitej/      https://github
 VSCode Solidity++ Extension - https://marketplace.visualstudio.com/items?itemName=ViteLabs.soliditypp  
 
 ViteConnect -   https://github.com/vitelabs/vite-connect-server   https://github.com/vitelabs/vite-connect-client
+
+**ViteX**
+
+Official Website - https://vitex.net/
+
+Trading site - https://x.vite.net/
+
+Help Center - https://vitex.zendesk.com/hc/en-001
+
+Twitter - https://twitter.com/ViteXExchange
+
+Telegram - https://t.me/vitexexchange
 
 
 **ViteX Integrations**
